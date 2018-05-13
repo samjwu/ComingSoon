@@ -9,3 +9,11 @@ html, body {
     background: #000;
     overflow: hidden;
 }
+
+.splashpage {
+    position: relative;
+    background: url("../img/background.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
