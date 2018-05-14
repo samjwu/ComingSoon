@@ -16,3 +16,5 @@ https://www.w3schools.com/jsref/met_win_setinterval.asp
 https://www.w3schools.com/js/js_htmldom_html.asp
 https://www.w3schools.com/jsref/prop_html_innerhtml.asp
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
+https://www.w3schools.com/cssref/css3_pr_justify-content.asp
+https://v4-alpha.getbootstrap.com/utilities/flexbox/#justify-content
