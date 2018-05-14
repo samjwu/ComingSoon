@@ -13,3 +13,6 @@ https://www.w3schools.com/jsref/jsref_gettime.asp
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
 https://codeburst.io/javascript-arrow-functions-for-beginners-926947fc0cdc
 https://www.w3schools.com/jsref/met_win_setinterval.asp
+https://www.w3schools.com/js/js_htmldom_html.asp
+https://www.w3schools.com/jsref/prop_html_innerhtml.asp
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
