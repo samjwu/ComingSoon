@@ -50,3 +50,7 @@ html, body {
     align-items: center;
     text-align: center;
 }
+
+.clock div {
+    padding: 20px;
+}
