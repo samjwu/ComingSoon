@@ -1,2 +1,15 @@
 styles.css
 https://stackoverflow.com/questions/26979386/css-parents-position-is-absolute-and-childs-position-is-relative-and-vice-ve
+
+scripts.js
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const
+https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75
+https://vegibit.com/es6-let-vs-var-vs-const/
+https://www.w3schools.com/jsref/met_document_queryselector.asp
+https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector
+https://www.w3schools.com/jsref/jsref_obj_date.asp
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date
+https://www.w3schools.com/jsref/jsref_gettime.asp
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
+https://codeburst.io/javascript-arrow-functions-for-beginners-926947fc0cdc
+https://www.w3schools.com/jsref/met_win_setinterval.asp
